@@ -1,0 +1,72 @@
+<svg height="1102" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1102" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 14:06:02 +0000  4813894 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 14:06:02 +0000     1074 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 14:06:02 +0000      199 bytes  Podfile</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 14:06:02 +0000    19853 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 14:06:02 +0000    66548 bytes  instructions/addFilesToProject.png</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 14:06:02 +0000    68948 bytes  instructions/addFilesToProjectSelect.png</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 14:06:02 +0000    57542 bytes  instructions/addlibs.png</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 14:06:02 +0000   363795 bytes  instructions/after-rnpm.png</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 14:06:02 +0000   360817 bytes  instructions/before-rnpm.png</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 14:06:02 +0000   126969 bytes  instructions/libs.png</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 14:06:02 +0000    76983 bytes  instructions/libssummary.png</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 14:06:02 +0000    41158 bytes  instructions/projectStructureAfter.png</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 14:06:02 +0000    19445 bytes  instructions/require.png</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 14:06:02 +0000    23155 bytes  lib/sqlite.core.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 14:06:02 +0000     3072 bytes  package.json</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 14:06:02 +0000      635 bytes  react-native-sqlite-storage.podspec</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 14:06:02 +0000     1127 bytes  scripts/rnpm-postlink.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 14:06:02 +0000     2817 bytes  sqlite.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 14:06:02 +0000      717 bytes  src/android-native/build.gradle</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 14:06:02 +0000      784 bytes  src/android-native/gradle.properties</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 14:06:02 +0000   832352 bytes  src/android-native/libs/arm64-v8a/libsqlc-native\</tspan>
+<tspan x="10" y="362">-driver.so</tspan>
+<tspan x="10" y="378"> 21.  2017-04-18 14:06:02 +0000   418916 bytes  src/android-native/libs/armeabi-v7a/libsqlc-nati\</tspan>
+<tspan x="10" y="394">ve-driver.so</tspan>
+<tspan x="10" y="410"> 22.  2017-04-18 14:06:02 +0000   427076 bytes  src/android-native/libs/armeabi/libsqlc-native-d\</tspan>
+<tspan x="10" y="426">river.so</tspan>
+<tspan x="10" y="442"> 23.  2017-04-18 14:06:02 +0000    11994 bytes  src/android-native/libs/sqlite-connector.jar</tspan>
+<tspan x="10" y="458"> 24.  2017-04-18 14:06:02 +0000   832484 bytes  src/android-native/libs/x86/libsqlc-native-drive\</tspan>
+<tspan x="10" y="474">r.so</tspan>
+<tspan x="10" y="490"> 25.  2017-04-18 14:06:02 +0000   873784 bytes  src/android-native/libs/x86_64/libsqlc-native-dr\</tspan>
+<tspan x="10" y="506">iver.so</tspan>
+<tspan x="10" y="522"> 26.  2017-04-18 14:06:02 +0000       48 bytes  src/android-native/settings.gradle</tspan>
+<tspan x="10" y="538"> 27.  2017-04-18 14:06:02 +0000      143 bytes  src/android-native/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="554"> 28.  2017-04-18 14:06:02 +0000     2828 bytes  src/android-native/src/main/java/io/liteglue/Cal\</tspan>
+<tspan x="10" y="570">lbackContext.java</tspan>
+<tspan x="10" y="586"> 29.  2017-04-18 14:06:02 +0000    19026 bytes  src/android-native/src/main/java/io/liteglue/SQL\</tspan>
+<tspan x="10" y="602">iteAndroidDatabase.java</tspan>
+<tspan x="10" y="618"> 30.  2017-04-18 14:06:02 +0000    33466 bytes  src/android-native/src/main/java/io/liteglue/SQL\</tspan>
+<tspan x="10" y="634">itePlugin.java</tspan>
+<tspan x="10" y="650"> 31.  2017-04-18 14:06:02 +0000     5032 bytes  src/android-native/src/main/java/io/liteglue/SQL\</tspan>
+<tspan x="10" y="666">itePluginConverter.java</tspan>
+<tspan x="10" y="682"> 32.  2017-04-18 14:06:02 +0000     1318 bytes  src/android-native/src/main/java/io/liteglue/SQL\</tspan>
+<tspan x="10" y="698">itePluginPackage.java</tspan>
+<tspan x="10" y="714"> 33.  2017-04-18 14:06:02 +0000      535 bytes  src/android/build.gradle</tspan>
+<tspan x="10" y="730"> 34.  2017-04-18 14:06:02 +0000       48 bytes  src/android/settings.gradle</tspan>
+<tspan x="10" y="746"> 35.  2017-04-18 14:06:02 +0000      144 bytes  src/android/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="762"> 36.  2017-04-18 14:06:02 +0000     2852 bytes  src/android/src/main/java/org/pgsqlite/CallbackC\</tspan>
+<tspan x="10" y="778">ontext.java</tspan>
+<tspan x="10" y="794"> 37.  2017-04-18 14:06:02 +0000      764 bytes  src/android/src/main/java/org/pgsqlite/SQLiteArr\</tspan>
+<tspan x="10" y="810">ay.java</tspan>
+<tspan x="10" y="826"> 38.  2017-04-18 14:06:02 +0000      807 bytes  src/android/src/main/java/org/pgsqlite/SQLiteObj\</tspan>
+<tspan x="10" y="842">ect.java</tspan>
+<tspan x="10" y="858"> 39.  2017-04-18 14:06:02 +0000    45397 bytes  src/android/src/main/java/org/pgsqlite/SQLitePlu\</tspan>
+<tspan x="10" y="874">gin.java</tspan>
+<tspan x="10" y="890"> 40.  2017-04-18 14:06:02 +0000     5033 bytes  src/android/src/main/java/org/pgsqlite/SQLitePlu\</tspan>
+<tspan x="10" y="906">ginConverter.java</tspan>
+<tspan x="10" y="922"> 41.  2017-04-18 14:06:02 +0000     1305 bytes  src/android/src/main/java/org/pgsqlite/SQLitePlu\</tspan>
+<tspan x="10" y="938">ginPackage.java</tspan>
+<tspan x="10" y="954"> 42.  2017-04-18 14:06:02 +0000     2247 bytes  src/ios/SQLite.h</tspan>
+<tspan x="10" y="970"> 43.  2017-04-18 14:06:02 +0000    26870 bytes  src/ios/SQLite.m</tspan>
+<tspan x="10" y="986"> 44.  2017-04-18 14:06:02 +0000     9598 bytes  src/ios/SQLite.xcodeproj/project.pbxproj</tspan>
+<tspan x="10" y="1002"> 45.  2017-04-18 14:06:02 +0000      135 bytes  src/ios/SQLite.xcodeproj/project.xcworkspace/con\</tspan>
+<tspan x="10" y="1018">tents.xcworkspacedata</tspan>
+<tspan x="10" y="1034"> 46.  2017-04-18 14:06:02 +0000     1079 bytes  src/ios/SQLiteResult.h</tspan>
+<tspan x="10" y="1050"> 47.  2017-04-18 14:06:02 +0000     1614 bytes  src/ios/SQLiteResult.m</tspan>
+<tspan x="10" y="1066"> 48.  2017-04-18 14:06:02 +0000    10440 bytes  test/index.ios.callback.js</tspan>
+<tspan x="10" y="1082"> 49.  2017-04-18 14:06:02 +0000    10921 bytes  test/index.ios.promise.js</tspan>
+</text>
+</svg>
