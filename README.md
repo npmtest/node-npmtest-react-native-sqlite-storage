@@ -1,6 +1,6 @@
 # npmtest-react-native-sqlite-storage
 
-#### test coverage for  [react-native-sqlite-storage (v3.2.2)](https://github.com/andpor/react-native-sqlite-storage)  [![npm package](https://img.shields.io/npm/v/npmtest-react-native-sqlite-storage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-native-sqlite-storage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-native-sqlite-storage.svg)](https://travis-ci.org/npmtest/node-npmtest-react-native-sqlite-storage)
+#### basic test coverage for  [react-native-sqlite-storage (v3.3.1)](https://github.com/andpor/react-native-sqlite-storage)  [![npm package](https://img.shields.io/npm/v/npmtest-react-native-sqlite-storage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-native-sqlite-storage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-native-sqlite-storage.svg)](https://travis-ci.org/npmtest/node-npmtest-react-native-sqlite-storage)
 
 #### SQLite3 bindings for React Native (Android & iOS)
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-native-sqlite-storage/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-native-sqlite-storage/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-native-sqlite-storage/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-native-sqlite-storage/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-native-sqlite-storage/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-native-sqlite-storage/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-native-sqlite-storage/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-native-sqlite-storage/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-native-sqlite-storage/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-native-sqlite-storage/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-native-sqlite-storage/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-native-sqlite-storage/build/coverage.html/index.html)
 
@@ -42,17 +42,16 @@
         "url": "https://github.com/andpor/react-native-sqlite-storage/issues"
     },
     "dependencies": {
-        "rnpm": "1.5.2",
         "xcode": "0.8.9"
     },
     "description": "SQLite3 bindings for React Native (Android & iOS)",
     "devDependencies": {},
     "directories": {},
     "dist": {
-        "shasum": "baa999cf55219f1438a0435239ae7571195a689e",
-        "tarball": "https://registry.npmjs.org/react-native-sqlite-storage/-/react-native-sqlite-storage-3.2.2.tgz"
+        "shasum": "82c2c824faa21959ba6efed5a61ca3c4ab5293dc",
+        "tarball": "https://registry.npmjs.org/react-native-sqlite-storage/-/react-native-sqlite-storage-3.3.1.tgz"
     },
-    "gitHead": "b8a0ea20c7b077f5db65a08749dd7478b6bf91a2",
+    "gitHead": "7d46c109e2b2bb803cd692c70a4517735e66dd00",
     "homepage": "https://github.com/andpor/react-native-sqlite-storage",
     "keywords": [
         "react-native-sqlite-storage",
@@ -94,7 +93,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified yet\" && exit 1"
     },
-    "version": "3.2.2"
+    "version": "3.3.1",
+    "bin": {}
 }
 ```
 
